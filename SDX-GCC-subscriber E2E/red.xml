@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>1</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="/Users/nsearch/hats/lib/python3.7/site-packages"/>
+    <referencedLibrary type="PYTHON" name="pyotp" path="/Users/nsearch/hats/lib/python3.7/site-packages/pyotp"/>
+    <referencedLibrary type="PYTHON" name="mfa" path="SDX-GCC-subscriber E2E/Test suite"/>
+    <referencedLibrary type="PYTHON" name="RequestsLibrary" path="/Users/nsearch/hats/lib/python3.7/site-packages/RequestsLibrary"/>
+    <referencedLibrary type="PYTHON" name="REST" path="/Users/nsearch/hats/lib/python3.7/site-packages/REST"/>
+    <referencedLibrary type="PYTHON" name="json" path="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/json"/>
+    <referencedLibrary type="PYTHON" name="ExtendedRequestsLibrary" path="/Users/nsearch/hats/lib/python3.7/site-packages/ExtendedRequestsLibrary"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+    <isReferencedLibrariesAutoReloadEnabled>true</isReferencedLibrariesAutoReloadEnabled>
+    <isReferencedLibrariesAutoDiscoveringEnabled>true</isReferencedLibrariesAutoDiscoveringEnabled>
+    <isLibrariesAutoDiscoveringSummaryWindowEnabled>false</isLibrariesAutoDiscoveringSummaryWindowEnabled>
+</projectConfiguration>
